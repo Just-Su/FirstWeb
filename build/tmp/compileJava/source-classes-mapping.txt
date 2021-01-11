@@ -1,6 +1,11 @@
 com/Application.java
  com.Application
-com/web/HelloController.java
- com.web.HelloController
-com/web/dto/HelloResponseDto.java
- com.web.dto.HelloResponseDto
+com/justSu/book/springboot/domain/posts/PostsRepository.java
+ com.justSu.book.springboot.domain.posts.PostsRepository
+com/justSu/book/springboot/domain/posts/Posts.java
+ com.justSu.book.springboot.domain.posts.Posts
+ com.justSu.book.springboot.domain.posts.Posts$PostsBuilder
+com/justSu/book/springboot/web/HelloController.java
+ com.justSu.book.springboot.web.HelloController
+com/justSu/book/springboot/web/dto/HelloResponseDto.java
+ com.justSu.book.springboot.web.dto.HelloResponseDto
