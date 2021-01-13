@@ -1,4 +1,6 @@
-com/web/dto/HelloResponseDtoTest.java
- com.web.dto.HelloResponseDtoTest
-com/web/HelloControllerTest.java
- com.web.HelloControllerTest
+com/justSu/book/springboot/web/HelloControllerTest.java
+ com.justSu.book.springboot.web.HelloControllerTest
+com/justSu/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.justSu.book.springboot.web.dto.HelloResponseDtoTest
+com/justSu/book/springboot/domain/posts/PostsRepositoryTest.java
+ com.justSu.book.springboot.domain.posts.PostsRepositoryTest
